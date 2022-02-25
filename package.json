@@ -1,0 +1,12 @@
+{
+  "name": "proyect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bgarcia2022/tableau-extensions-tutorial-part-one",
+  "author": "bgarcia2022 <bgarcia@intermedia.com.uy>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
